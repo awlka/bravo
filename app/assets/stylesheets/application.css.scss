@@ -14,4 +14,8 @@
  *= require_self
  */
 
-// @import "compass";
+$b: #333;
+
+body {
+  background: $b;
+}
