@@ -1,2 +1,1 @@
-bravo
-=====
+A new AWLKA site. And yep, Powered by Ruby on Rails.
