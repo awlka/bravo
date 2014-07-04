@@ -6,11 +6,13 @@ gem 'rails', '4.1.0'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use SCSS for stylesheets
-group :assets do
-  gem 'sass-rails'
-  # gem 'compass-rails'
-     # Add any compass extensions here
-   end
+gem 'sass-rails'
+gem 'compass-rails'
+# group :assets do
+#   gem 'sass-rails'
+#   # gem 'compass-rails'
+#      # Add any compass extensions here
+#    end
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 # Use CoffeeScript for .js.coffee assets and views
