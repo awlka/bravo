@@ -1,5 +1,7 @@
 Rails.application.routes.draw do
 
+  get 'about/index'
+
   root 'home#index'
 
   # The priority is based upon order of creation: first created -> highest priority.
