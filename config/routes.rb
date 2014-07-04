@@ -1,5 +1,7 @@
 Rails.application.routes.draw do
 
+  get 'work/index'
+
   get 'clients/index'
 
   get 'methodology/index'
