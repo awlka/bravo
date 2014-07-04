@@ -1,5 +1,7 @@
 Rails.application.routes.draw do
 
+  get 'portfolio/index'
+
   get 'work/index'
 
   get 'clients/index'
