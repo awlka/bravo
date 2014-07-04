@@ -1,5 +1,7 @@
 Rails.application.routes.draw do
 
+  get 'methodology/index'
+
   get 'contact/index'
 
   get 'about/index'
